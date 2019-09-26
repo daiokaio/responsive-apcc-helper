@@ -1,15 +1,15 @@
 {
-    "name": "responsive-bp",
-    "description": "A powerful, accessible, developer friendly framework for building responsive websites.",
-    "version": "5.0.0",
-    "homepage": "http://responsivebp.com",
-    "author": "James South",
+    "name": "responsive-apcc-helper",
+    "description": "APCC Helper for the Modern World",
+    "version": "1.0.0",
+    "author": "Edwin Munguia",
+    "credit": "Credit to James South for Boiler Plate",
     "repository": {
         "type": "git",
-        "url": "https://github.com/responsivebp/responsive.git"
+        "url": "https://github.com/daiokaio/responsive-apcc-helper.git"
     },
     "bugs": {
-        "url": "https://github.com/responsivebp/responsive/issues"
+        "url": "https://github.com/daiokaio/responsive-apcc-helper/issues"
     },
     "license": "MIT",
     "scripts": {
